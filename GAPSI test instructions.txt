@@ -5,5 +5,9 @@ Oh and a third one
 So another one...
 
 
+<<<<<<< HEAD
 CinKo rules!!
 No veo nada!!
+=======
+Luis rules!!!
+>>>>>>> origin/master
