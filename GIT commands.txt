@@ -24,4 +24,6 @@ git push <origin name> <brach name> e.g. git push origin master
 git remote show origin
 git tag
 
+-----
+
 
