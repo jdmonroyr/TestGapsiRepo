@@ -6,8 +6,12 @@ So another one...
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 CinKo rules!!
 No veo nada!!
 =======
 Luis rules!!!
 >>>>>>> origin/master
+=======
+Luis ROCKS!!!
+>>>>>>> 8dc76a7115a2c2bbf72090f033f7d23200508224
