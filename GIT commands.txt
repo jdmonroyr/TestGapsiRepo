@@ -1,0 +1,27 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --global core.editor emacs
+git config --global core.editor "'c:/program files/sublime text 2/sublime_text.exe' -w"
+git config --list
+git config user.name
+git help <verb>
+git init
+git add <filename>
+git commit -m '<comment>'
+git clone <repo address>
+git status
+git diff
+git diff --staged
+git log
+git log -p -<number of commits>
+git log --stat
+git log --pretty=oneline
+git commit --amend
+git reset HEAD <filename> 
+git remote
+git fetch
+git push <origin name> <brach name> e.g. git push origin master
+git remote show origin
+git tag
+
+
